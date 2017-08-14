@@ -23,4 +23,4 @@ Lessons:
 
 -----
 
-I forked this repo from our course TA and try to finish some code and write down my thoughts in each jupyter notebook.
+I fork this repo from our course TA and try to finish some code and write down my thoughts in each jupyter notebook.
