@@ -21,3 +21,6 @@ Lessons:
 * L8: [Clustering](8.clustering)
 * L9: [Apriori Algorithm](9.apriori)
 
+-----
+
+I forked this repo from our course TA and try to finish some code and write down my thoughts in each jupyter notebook.
